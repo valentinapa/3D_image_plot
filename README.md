@@ -6,3 +6,5 @@ this is a test public repo for demo purposes:
 
 It contains a script for visualizing 3D images in python
 (from https://github.com/robbergen/TrGAN/blob/main/ImageViewer3D.py) 
+
+- GS and VE are invited.. (?)
